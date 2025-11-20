@@ -32,7 +32,7 @@ duckduckgo-search
 - `wikipedia:` Cliente de Python para acceder a Wikipedia.
 - `langchain-community:` Extensiones y contribuciones de la comunidad de LangChain.
 - `langchain-openai:` Adaptador específico de LangChain para usar los modelos de OpenAI.
-- `langchain-antrophic:` Similar a langchain-openai, pero para los modelos de Anthropic (p. ej., Claude).
+- `langchain-anthropic:` Similar a langchain-openai, pero para los modelos de Anthropic (p. ej., Claude).
 - `python-dotenv:` Permite cargar variables de entorno desde archivos .env en Python. Muy útil para ocultar claves de API, configuraciones y secretos sin ponerlos en el código.
 - `pydantic:` Permite definir clases con tipos de datos, validarlos automáticamente y convertir datos entrantes (por ejemplo JSON) en objetos Python.
 - `duckduckgo-search:` Cliente Python para realizar búsquedas en DuckDuckGo.
